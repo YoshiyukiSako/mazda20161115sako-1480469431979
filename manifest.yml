@@ -1,0 +1,8 @@
+applications:
+- path: target/JavaHelloWorldApp.war
+  memory: 512M
+  instances: 1
+  domain: mybluemix.net
+  name: mazda20161115sako
+  host: mazda20161115sako
+  disk_quota: 1024M
